@@ -1,4 +1,4 @@
-![Github Banner](assets/github-banner.jpg)
+![Github Banner](assets/github-banner.png)
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
@@ -21,7 +21,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 
 ### Tutorials
 
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
+<!-- [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp) -->
 
 ### My Projects & Ventures
 
@@ -72,7 +72,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
   </tbody>
 </table>
 
-### 📺 &emsp;Latest YouTube Videos
+<!-- ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Learn Fullstack - the Scrimba way](https://www.youtube.com/watch?v=RzlQ-CEp90A)
@@ -80,15 +80,13 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 - [নেক্সট জেএসের আদ্যোপান্ত - সাথে কিছু অপ্রিয় সত্য - রিয়্যাক্টিভ এক্সিলারেটর](https://www.youtube.com/watch?v=O8yVi12Hsgg)
 - [React ডেভেলপমেন্ট নাকি ইঞ্জিনিয়ারিং - রিয়্যাক্টিভ এক্সিলারেটর - ব্যাচ ৩](https://www.youtube.com/watch?v=xONmFjXCX0M)
 - [রিয়্যাক্ট শেখার এটাই শেষ কথা - রিয়্যাক্টিভ এক্সিলারেটর - ব্যাচ ৩](https://www.youtube.com/watch?v=q9Zz6RjGnAg)
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:END --> -->
 
 #### Business
 
-:email: &emsp;sayhitorainmaker@gmail.com
+:email: &emsp;logicbaselabs@gmail.com
 <br >
-:email: &emsp;sumit@learnwithsumit.com
-<br >
-:email: &emsp;sumit@analyzenbd.com
+:email: &emsp;sumit@logicbaselabs.com
 
 #### Profile Visits
 
